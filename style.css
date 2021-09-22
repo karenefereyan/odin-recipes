@@ -1,0 +1,22 @@
+body{
+    background-color: red;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: fantasy;
+    font-size: 75px;
+}
+
+ul li a{
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.regards{
+    font-size: 22px;
+    color: whitesmoke;
+    text-decoration: underline;
+}
